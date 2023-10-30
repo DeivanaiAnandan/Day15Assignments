@@ -1,0 +1,48 @@
+body{
+    background-color: lightblue;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px auto;
+}
+table, th, td {
+    border: 1px solid rgb(0, 0, 0);
+}
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: blue;
+    color: white;
+}
+form {
+    width: 50%;
+    margin: 0 auto;
+}
+input[type="text"] {
+    width: 50%;
+    padding: 10px;
+    margin:10px;
+}
+input[type="submit"] {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+input[type="radio"]{
+    margin:10px 10px 10px 20px;
+}
+select{
+    margin:10px 10px 10px 30px;
+
+}
+#state{
+    margin-left: 30px;
+}
+h1{
+    text-align:center
+}
